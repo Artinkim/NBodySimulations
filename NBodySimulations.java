@@ -7,7 +7,7 @@ import java.util.Random;
 import javax.swing.JComponent;
 import javax.swing.JFrame;
 
-public class ParticleSystem extends JComponent {
+public class NBodySimulations extends JComponent {
 	float[][] particles;
 	Mode mode = Mode.PARTICLE;
 	final public int height;
